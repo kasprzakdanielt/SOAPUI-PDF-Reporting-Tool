@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+}
+.container > div {
+  margin: .1em;
+  padding: .3em;
+  border-radius: 3px;
+  flex: 1;
+}
+hr {
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 2px;
+  background-color: #2384e1;
+  border-color: #2384e1;
+}
+table{  
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+td, th{  
+border: 1px solid #dddddd;  
+text-align: left;  
+padding: 8px;}
+
+tr:nth-child(even){  
+background-color: #dddddd;}
+
+table#t01 th, table#t01 td{  
+border: 0px solid black;}
+
+table#t02, table#t02 td, table#t02 th, table#t02 tr:nth-child(even){
+border: 0px solid black;
+background-color: #ffffff;
+}
+
+@page{size: 270mm 297mm}
