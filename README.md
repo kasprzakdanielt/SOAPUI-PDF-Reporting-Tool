@@ -9,12 +9,18 @@ I included a sample SOAPUI project "CountryInfoService-soapui-project.xml".
 My 'tool' was designed as a substitute for pdf report generation that is available in SOAPUI Pro version.
 Basic reports for functional tests are working.
 Example report:
-```
-https://imgur.com/jksqk1X
-```
-```
-https://imgur.com/gWFM4Wi
-```
-```
-https://imgur.com/embilTZ
-```
+
+![firstpage](https://i.imgur.com/jksqk1X.png)
+
+![secondpage](https://i.imgur.com/gWFM4Wi.png)
+
+![thirdpage](https://i.imgur.com/embilTZ.png)
+
+## Getting Started
+
+
+
+### Prerequisites
+
+SOAPUI Open Source 
+https://www.soapui.org/downloads/soapui.html
