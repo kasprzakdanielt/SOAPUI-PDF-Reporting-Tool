@@ -10,8 +10,7 @@ First version is available here: [SOAPUIReportingTool](https://github.com/kasprz
 
 ## Getting Started
 
-To generate a report you can ask SOAPUI to produce it through the TestRunner you can launch testRunner by right-clicking on the Test suite test case or the entire project you want to run. Go to the reports tab and select the two options shown below. Then set the Root Folder to where you want to save the reports.
-These reports are generated in an XML format and are not presentable.
+To generate a report you can ask SOAPUI to produce it through the TestRunner you can launch testRunner by right-clicking on the Test suite test case or the entire project you want to run. These reports are generated in an XML format and are not presentable.
 
 My 'tool' was designed as a substitute for pdf report generation that is available in SOAPUI Pro version.
 Basic reports for functional tests are working.
