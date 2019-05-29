@@ -1,11 +1,12 @@
-# SOAPUIReportingTool
+# SOAPUI PDF Reporting Tool
+
 
 It started as a simple project for my engineer's degree. Everything was done as fast as possible and needs a proper cleanup, that's why it is so messy.
 
 It should work when configured properly(config.cfg). 
 I included a sample SOAPUI project "CountryInfoService-soapui-project.xml"(wsdl service is not working right now sadly, dunno if it will come up again) and "numberconversion-soapui-project".
 
-First version is available here: [SOAPUIReportingTool](https://github.com/kasprzakdanielt/SOAPUIReportingTool/releases/tag/v0.1)
+First version is available here: [SOAPUI PDF Reporting Tool](https://github.com/kasprzakdanielt/SOAPUI-PDF-Reporting-Tool/releases)
 
 
 ## Getting Started
@@ -59,6 +60,6 @@ https://www.soapui.org/downloads/soapui.html
 
 ## Issues & Questions
 If you have any questions or issues:
-[Add a ticket here](https://github.com/kasprzakdanielt/SOAPUIReportingTool/issues)
+[Add a ticket here](https://github.com/kasprzakdanielt/SOAPUI-PDF-Reporting-Tool/issues)
 or 
 [Email me](mailto:kasprzak.daniel.kontakt@gmail.com)
